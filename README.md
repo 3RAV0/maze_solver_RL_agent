@@ -21,7 +21,6 @@ rl-maze-agent/
 ├─ train_q_learning.py # Q-learning loop + viewer
 ├─ run_experiment.py # Entry point: choose maze, train, log
 ├─ maze16_rl_demo.py # Generate & play mazes manually
-├─ requirements.txt
 └─ README.md
 
 
